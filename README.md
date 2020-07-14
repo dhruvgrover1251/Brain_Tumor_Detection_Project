@@ -20,6 +20,20 @@ Link to Dataset: https://www.kaggle.com/navoneel/brain-mri-images-for-brain-tumo
   
   1085 positive and 980 negative exapmples.<br>
   Augmented data is saved in folder augmented_data.
+  
+  ## Data Preprocessing
+  
+  For every image following process is applied.
+  1. Crop the brain through opencv(finding contours).
+  2. Resizing all images into a common size to fir to neural network.
+  3. Applying normalization.
+  4. Appending images pixels to X(feauture vector) and giving them labels(y).
+  5. Shuffling X and Y.
+  
+  ## Transfer Learning
+  
+  1. **VGG16**<br>
+     This model was applied with same wieghts as learned from imagenet dataset. Last 3 layers of VGG16 were removed and trainable  layers were inserted.
 
 
 
