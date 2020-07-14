@@ -1,5 +1,4 @@
 # Brain_Tumor_Detection_Project
-<<<<<<< HEAD
 This Project uses transfer learning to build a CNN model to classify whether a patient have brain tumor or not based on MRI scan.
 *Data*
 =======
@@ -20,4 +19,4 @@ Link to Dataset: https://www.kaggle.com/navoneel/brain-mri-images-for-brain-tumo
   Augmented data is saved in folder augmented_data.
 
 
->>>>>>> 1e1e53257dd5438f9da97839f15e483c76658b77
+
