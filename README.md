@@ -34,6 +34,13 @@ Link to Dataset: https://www.kaggle.com/navoneel/brain-mri-images-for-brain-tumo
   
   1. **VGG16**<br>
      This model was applied with same wieghts as learned from imagenet dataset. Last 3 layers of VGG16 were removed and trainable  layers were inserted.
+  2. **InceptionV3**<br>
+     This model was applied with same wieghts as learned from imagenet dataset. Last 3 layers of inceptionV3 were removed and trainable  layers were inserted.
+  3. **Resnet50**
+     This model was applied with same wieghts as learned from imagenet dataset. Last 3 layers of resnet50  were removed and trainable  layers were inserted.
+     
+ ## Trying own model 
+ This model was tried in expectation that less number of parameters may have greater accuracy but did not perform as good as above models.
 
 
 
