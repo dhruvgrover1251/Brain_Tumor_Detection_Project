@@ -2,10 +2,6 @@
 
 <p>This Project uses transfer learning to build a CNN model to classify whether a patient have brain tumor or not based on MRI scan.</P>
 
-*Data*
-=======
-<p>This Project uses transfer learning to build a CNN model to classify whether a patient have brain tumor or not based on MRI scan using tensorflows.</p>
-
 **About the Data**
 <p>The dataset is in Brain_tumor dataset folder. This folder have 2 subfolder yes and no containing 253 MRI scan images. Folder yes have 155 tumrous MRI scaned images and folder no have 98 non-tumorous MRI scanned images.</p>
 Link to Dataset: https://www.kaggle.com/navoneel/brain-mri-images-for-brain-tumor-detection
