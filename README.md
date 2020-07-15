@@ -34,7 +34,7 @@ Link to Dataset: https://www.kaggle.com/navoneel/brain-mri-images-for-brain-tumo
   
   1. **VGG16**<br>
      This model was applied with same wieghts as learned from imagenet dataset. Last 3 layers of VGG16 were removed and trainable  layers were inserted.
-     ![alt text](https://github.com/dhruvgrover1251/Brain_Tumor_Detection_Project/blob/master/VGG16withtoplayers.png)<br>
+     ![alt text](https://github.com/dhruvgrover1251/Brain_Tumor_Detection_Project/blob/master/VGG16a.PNG)<br>
      
      **Training of model** <br>
      
