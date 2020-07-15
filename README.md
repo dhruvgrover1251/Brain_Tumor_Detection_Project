@@ -55,7 +55,7 @@ Link to Dataset: https://www.kaggle.com/navoneel/brain-mri-images-for-brain-tumo
 
   3. **Resnet50**
      This model was applied with same wieghts as learned from imagenet dataset. Last 3 layers of resnet50  were removed and trainable  layers were inserted.
-       ![alt text](https://github.com/dhruvgrover1251/Brain_Tumor_Detection_Project/blob/master/inceptionv3.PNG)<br>
+       ![alt text](https://github.com/dhruvgrover1251/Brain_Tumor_Detection_Project/blob/master/resnet50.PNG)<br>
           
        **Training of model** <br>
        
@@ -73,6 +73,11 @@ Link to Dataset: https://www.kaggle.com/navoneel/brain-mri-images-for-brain-tumo
    ![alt text](https://github.com/dhruvgrover1251/Brain_Tumor_Detection_Project/blob/master/own-model_training.PNG)
      Test Accuracy = 0.7354838848114014<br>
      F1 score: 0.757396449704142<br>
+     
+   # Notes
+   1. Notebooks in the repository are made in google colab.
+   2.All the models with increasing validation accuracy are available in the folder with their name.
+    
 
 
 
