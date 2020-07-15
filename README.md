@@ -59,13 +59,15 @@ Link to Dataset: https://www.kaggle.com/navoneel/brain-mri-images-for-brain-tumo
           
        **Training of model** <br>
        
-   ![alt text](https://github.com/dhruvgrover1251/Brain_Tumor_Detection_Project/blob/master/inceptiontraining.PNG)
-     Test Accuracy = 0.9935483932495117<br>
-     F1 score: 0.9898989898989898<br>
+   ![alt text](https://github.com/dhruvgrover1251/Brain_Tumor_Detection_Project/blob/master/resnet50%20training.PNG)
+     Test Accuracy = 0.8258064389228821<br>
+     F1 score: 0.8402366863905325<br>
      
  ## Trying own model 
- This model was tried in expectation that less number of parameters may have greater accuracy but did not perform as good as above models.
+ This model was tried in expectation that less number of parameters may have greater accuracy but did not perform as good as above models.<br>
  
+  ![alt text](https://github.com/dhruvgrover1251/Brain_Tumor_Detection_Project/blob/master/model.PNG)<br>
+
 
 
 
