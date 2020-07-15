@@ -75,7 +75,7 @@ Link to Dataset: https://www.kaggle.com/navoneel/brain-mri-images-for-brain-tumo
      F1 score: 0.757396449704142<br>
      
    # Notes
-   1. Notebooks in the repository are made in google colab.
+   1. Notebooks in the repository are made in google colab.<br>
    2.All the models with increasing validation accuracy are available in the folder with their name.
     
 
